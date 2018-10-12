@@ -1,1 +1,5 @@
-dynamic website
+we are going to devlope a dynamic website which better ways to save lives and prevent  economic loses by predicting it with the data available . prevention  based on the type of disaster like earthquake etc damage analysis based  on type of disaster,what can be damaged how we can minimize damage.
+It works we divide it in natural disaster and Man-made disaster and user can select what type of disaster he is facing or he wnats to know on a particular information on a partticular area also available by using map we can show the disaster porne area,affected area and also show the closest services,facilities available nearby and the road network. Also show the nearby basic necessities for immediate support like water,food,hospital and support centers.It can predict i.e pre impaact ,impact which will help during disaster what type of safety measure we should taken and at that place what type facility are available.post impact it can help user to what the govt. and others are doing like Rehabilitation and disaster mitigation.
+The main Mantra is information gathering quick,correct and in real-time basis.
+user can see use it according to current situation he is facing.
+we are using web technology(i.e Html,css,javascript,php,Mysql)
